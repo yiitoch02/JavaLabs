@@ -14,6 +14,7 @@ without a loop.
    b. power(x, n): Calculates the power of a number x raised to a non-negative integer n.
    c. reverseString(str): Reverses a given string str.
    d. palindrome(str): Checks whether a given string str is a palindrome.
+   
    e. Write a recursive method named countDown that takes an integer parameter and prints a countdown from that number to 1, test your countDown method with different input values.
    f.Write a recursive method named binarySearch that performs a binary search on a sorted array.
    g. Using a recursive method, find a path through a maze from the start to the end. Recursive solution involves exploring each possible move until a solution is found.
