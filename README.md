@@ -6,6 +6,7 @@ without a loop.
 
 **Requirements:**
 1. A Java development environment (e.g., IntelliJ IDEA, Eclipse)
+   
 2.A GitHub account
 
 **Instructions:**
@@ -35,7 +36,9 @@ without a loop.
    K. Travel Traversal: using a recursive function, traverse through the nodes of a **Tree data structure**. Recursive solution include in-order, pre-order, and post-order traversals.
    
 3.For each method, write a unit test case to verify its correctness.
+
 4. Commit and push your changes to the GitHub repository.
+
 5. Optional Task - Implement another version of your method using an **iterative (normal loop)** approach and compare its efficiency to the recursion version.
 
 
