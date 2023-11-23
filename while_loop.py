@@ -3,7 +3,6 @@ while x <= 10:  # declare condition
     x += 1  # increase x
     print(f"hello world! {x}")
 
-
 # type your name:
 # break statement
 while True:
